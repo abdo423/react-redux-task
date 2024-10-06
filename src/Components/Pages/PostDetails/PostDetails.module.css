@@ -1,0 +1,11 @@
+/* styles.css */
+.textCustom {
+    color: #aa23ff !important; /* Override with !important if needed */
+}
+
+.bgCustom {
+    background-color: #33C3FF !important; /* Override with !important if needed */
+}
+.textCool {
+    color: #ff5733; /* Custom color for share button */
+}
